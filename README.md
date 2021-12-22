@@ -2,7 +2,7 @@
 - none
 
 ## Pull Requests:
-
+[Pull Request 12-21-21](https://github.com/spamuelranek/web-scraper/pull/1)
 
 ### How to use:
 - These functions will help locate citation needed within the main body of a wikipedia article
